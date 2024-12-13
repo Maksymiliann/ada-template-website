@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: Actors and Astrology Zodiac Trends in Movie Field
-description: ça marche pas!!
+
+title: ADA Template Website
+description: A template website for ADA
+
 show_downloads: True
 navigation:
   - title: Home
-    url: README
+    url: /
   - title: Example
     url: example
