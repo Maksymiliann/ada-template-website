@@ -9,5 +9,5 @@ navigation:
     url: /
   - title: Example
     url: example
-  -title: Work in progress
+  - title: Work in progress
    url: First_Test
